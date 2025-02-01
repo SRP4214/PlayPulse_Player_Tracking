@@ -47,16 +47,22 @@
 - Makesense AI annotator 📸
 
 ## 📸 Screenshots
+# Home Page
 ![Home Page](image/1.jfif)
+# Player stats
 ![Player stats](image/2.jfif)
+# Graph
 ![Graph](image/3.jfif)
+# SWOT
 ![SWOT](image/4.jfif)
+# Highlight
 ![Highlight](image/5.jfif)
+
 ## 🔧 Installation & Usage
 1️⃣ Clone the repo:
 ```bash
- git clone https://github.com/siya25097/PlayPulse.git
- cd PlayPulse
+ git clone https://github.com/SRP4214/PlayPulse_Player_Tracking.git
+ cd PlayPulse_Player_Tracking
 ```
 
 2️⃣ Install dependencies:
