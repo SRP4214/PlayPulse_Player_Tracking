@@ -1,0 +1,1016 @@
+[
+  {
+    "displayName": "Odin",
+    "category": "EEquippableCategory::Heavy",
+    "displayIcon": "https://media.valorant-api.com/weapons/63e6c2b6-4a8e-869c-3d4c-e38355226584/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/63e6c2b6-4a8e-869c-3d4c-e38355226584/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 12,
+      "magazineSize": 100,
+      "runSpeedMultiplier": 0.76,
+      "equipTimeSeconds": 1.25,
+      "reloadTimeSeconds": 5,
+      "firstBulletAccuracy": 0.8,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::High",
+      "feature": "EWeaponStatsFeature::ROFIncrease",
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.15,
+        "fireRate": 15.6,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 1,
+        "firstBulletAccuracy": 0.79
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 30,
+          "headDamage": 95,
+          "bodyDamage": 38,
+          "legDamage": 32.3
+        },
+        {
+          "rangeStartMeters": 30,
+          "rangeEndMeters": 50,
+          "headDamage": 77.5,
+          "bodyDamage": 31,
+          "legDamage": 26.35
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 3200,
+      "category": "Heavy Weapons",
+      "shopOrderPriority": 0,
+      "categoryText": "Heavy Weapons",
+      "gridPosition": {
+        "row": 2,
+        "column": 2
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/63e6c2b6-4a8e-869c-3d4c-e38355226584/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/HMG/HeavyMachineGunPurchase"
+    }
+  },
+  {
+    "displayName": "Ares",
+    "category": "EEquippableCategory::Heavy",
+    "displayIcon": "https://media.valorant-api.com/weapons/55d8a0f4-4274-ca67-fe2c-06ab45efdf58/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/55d8a0f4-4274-ca67-fe2c-06ab45efdf58/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 13,
+      "magazineSize": 50,
+      "runSpeedMultiplier": 0.76,
+      "equipTimeSeconds": 1.25,
+      "reloadTimeSeconds": 3.25,
+      "firstBulletAccuracy": 1,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::High",
+      "feature": null,
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.15,
+        "fireRate": 13,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 1,
+        "firstBulletAccuracy": 0.9
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 30,
+          "headDamage": 75,
+          "bodyDamage": 30,
+          "legDamage": 25.5
+        },
+        {
+          "rangeStartMeters": 30,
+          "rangeEndMeters": 50,
+          "headDamage": 70,
+          "bodyDamage": 28,
+          "legDamage": 23.800001
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 1600,
+      "category": "Heavy Weapons",
+      "shopOrderPriority": 0,
+      "categoryText": "Heavy Weapons",
+      "gridPosition": {
+        "row": 1,
+        "column": 1
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/55d8a0f4-4274-ca67-fe2c-06ab45efdf58/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/HvyMachineGuns/LMG/LightMachineGunPurchase"
+    }
+  },
+  {
+    "displayName": "Vandal",
+    "category": "EEquippableCategory::Rifle",
+    "displayIcon": "https://media.valorant-api.com/weapons/9c82e19d-4575-0200-1a81-3eacf00cf872/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/9c82e19d-4575-0200-1a81-3eacf00cf872/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 9.75,
+      "magazineSize": 25,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.5,
+      "firstBulletAccuracy": 0.25,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Medium",
+      "feature": null,
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.25,
+        "fireRate": 8.775,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 1,
+        "firstBulletAccuracy": 0.1575
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 50,
+          "headDamage": 160,
+          "bodyDamage": 40,
+          "legDamage": 34
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 2900,
+      "category": "Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Assault Rifles",
+      "gridPosition": {
+        "row": 2,
+        "column": 3
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/9c82e19d-4575-0200-1a81-3eacf00cf872/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/AK/AK47WeaponPurchase"
+    }
+  },
+  {
+    "displayName": "Bulldog",
+    "category": "EEquippableCategory::Rifle",
+    "displayIcon": "https://media.valorant-api.com/weapons/ae3de142-4d85-2547-dd26-4e90bed35cf7/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/ae3de142-4d85-2547-dd26-4e90bed35cf7/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 10,
+      "magazineSize": 24,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.5,
+      "firstBulletAccuracy": 0.3,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Medium",
+      "feature": null,
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.25,
+        "fireRate": 6.315715,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 3,
+        "firstBulletAccuracy": 0.3
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 50,
+          "headDamage": 115.5,
+          "bodyDamage": 35,
+          "legDamage": 29.75
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 2050,
+      "category": "Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Assault Rifles",
+      "gridPosition": {
+        "row": 1,
+        "column": 3
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/ae3de142-4d85-2547-dd26-4e90bed35cf7/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Burst/BurstPurchase"
+    }
+  },
+  {
+    "displayName": "Phantom",
+    "category": "EEquippableCategory::Rifle",
+    "displayIcon": "https://media.valorant-api.com/weapons/ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 11,
+      "magazineSize": 30,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.5,
+      "firstBulletAccuracy": 0.2,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Medium",
+      "feature": "EWeaponStatsFeature::Silenced",
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.25,
+        "fireRate": 9.9,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 1,
+        "firstBulletAccuracy": 0.11000001
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 20,
+          "headDamage": 156,
+          "bodyDamage": 39,
+          "legDamage": 33.15
+        },
+        {
+          "rangeStartMeters": 20,
+          "rangeEndMeters": 50,
+          "headDamage": 140,
+          "bodyDamage": 35,
+          "legDamage": 29.75
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 2900,
+      "category": "Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Assault Rifles",
+      "gridPosition": {
+        "row": 2,
+        "column": 1
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Rifles/Carbine/ACRWeaponPurchase"
+    }
+  },
+  {
+    "displayName": "Judge",
+    "category": "EEquippableCategory::Shotgun",
+    "displayIcon": "https://media.valorant-api.com/weapons/ec845bf4-4f79-ddda-a3da-0db3774b2794/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/ec845bf4-4f79-ddda-a3da-0db3774b2794/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 3.5,
+      "magazineSize": 5,
+      "runSpeedMultiplier": 0.75,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.2,
+      "firstBulletAccuracy": 2.25,
+      "shotgunPelletCount": 12,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": null,
+      "fireMode": null,
+      "altFireType": null,
+      "adsStats": null,
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 10,
+          "headDamage": 34,
+          "bodyDamage": 17,
+          "legDamage": 14.450001
+        },
+        {
+          "rangeStartMeters": 10,
+          "rangeEndMeters": 15,
+          "headDamage": 20,
+          "bodyDamage": 10,
+          "legDamage": 8.5
+        },
+        {
+          "rangeStartMeters": 15,
+          "rangeEndMeters": 50,
+          "headDamage": 14,
+          "bodyDamage": 7,
+          "legDamage": 5.9500003
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 1850,
+      "category": "Shotguns",
+      "shopOrderPriority": 0,
+      "categoryText": "Shotguns",
+      "gridPosition": {
+        "row": 1,
+        "column": 0
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/ec845bf4-4f79-ddda-a3da-0db3774b2794/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/AutoShotgun/Autoshotgun_Purchase"
+    }
+  },
+  {
+    "displayName": "Bucky",
+    "category": "EEquippableCategory::Shotgun",
+    "displayIcon": "https://media.valorant-api.com/weapons/910be174-449b-c412-ab22-d0873436b21b/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/910be174-449b-c412-ab22-d0873436b21b/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 1.1,
+      "magazineSize": 5,
+      "runSpeedMultiplier": 0.75,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.5,
+      "firstBulletAccuracy": 2.6,
+      "shotgunPelletCount": 15,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": "EWeaponAltFireDisplayType::AirBurst",
+      "adsStats": null,
+      "altShotgunStats": null,
+      "airBurstStats": {
+        "shotgunPelletCount": 5,
+        "burstDistance": 7.5
+      },
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 8,
+          "headDamage": 40,
+          "bodyDamage": 20,
+          "legDamage": 17
+        },
+        {
+          "rangeStartMeters": 8,
+          "rangeEndMeters": 12,
+          "headDamage": 26,
+          "bodyDamage": 13,
+          "legDamage": 11.05
+        },
+        {
+          "rangeStartMeters": 12,
+          "rangeEndMeters": 50,
+          "headDamage": 18,
+          "bodyDamage": 9,
+          "legDamage": 7.65
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 850,
+      "category": "Shotguns",
+      "shopOrderPriority": 0,
+      "categoryText": "Shotguns",
+      "gridPosition": null,
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/910be174-449b-c412-ab22-d0873436b21b/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Shotguns/PumpShotgun/PumpShotgunPurchase"
+    }
+  },
+  {
+    "displayName": "Frenzy",
+    "category": "EEquippableCategory::Sidearm",
+    "displayIcon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 10,
+      "magazineSize": 15,
+      "runSpeedMultiplier": 0.85,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 1.5,
+      "firstBulletAccuracy": 0.65,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": null,
+      "fireMode": null,
+      "altFireType": null,
+      "adsStats": null,
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 20,
+          "headDamage": 78,
+          "bodyDamage": 26,
+          "legDamage": 22.1
+        },
+        {
+          "rangeStartMeters": 20,
+          "rangeEndMeters": 50,
+          "headDamage": 63,
+          "bodyDamage": 21,
+          "legDamage": 17.85
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 450,
+      "category": "Pistols",
+      "shopOrderPriority": 0,
+      "categoryText": "Sidearms",
+      "gridPosition": {
+        "row": 0,
+        "column": 1
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/44d4e95c-4157-0037-81b2-17841bf2e8e3/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/AutoPistol/AutomaticPistolPurchase"
+    }
+  },
+  {
+    "displayName": "Classic",
+    "category": "EEquippableCategory::Sidearm",
+    "displayIcon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 6.75,
+      "magazineSize": 12,
+      "runSpeedMultiplier": 0.85,
+      "equipTimeSeconds": 0.75,
+      "reloadTimeSeconds": 1.75,
+      "firstBulletAccuracy": 0.4,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": "EWeaponAltFireDisplayType::Shotgun",
+      "adsStats": null,
+      "altShotgunStats": {
+        "shotgunPelletCount": 3,
+        "burstRate": 2.22
+      },
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 30,
+          "headDamage": 78,
+          "bodyDamage": 26,
+          "legDamage": 22.1
+        },
+        {
+          "rangeStartMeters": 30,
+          "rangeEndMeters": 50,
+          "headDamage": 66,
+          "bodyDamage": 22,
+          "legDamage": 18.7
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 0,
+      "category": "Pistols",
+      "shopOrderPriority": 0,
+      "categoryText": "Sidearms",
+      "gridPosition": {
+        "row": 0,
+        "column": 2
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/29a0cfab-485b-f5d5-779a-b59f85e204a8/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/BasePistol/BasePistolPurchase"
+    }
+  },
+  {
+    "displayName": "Ghost",
+    "category": "EEquippableCategory::Sidearm",
+    "displayIcon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 6.75,
+      "magazineSize": 13,
+      "runSpeedMultiplier": 0.85,
+      "equipTimeSeconds": 0.75,
+      "reloadTimeSeconds": 1.5,
+      "firstBulletAccuracy": 0.3,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Medium",
+      "feature": "EWeaponStatsFeature::Silenced",
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": null,
+      "adsStats": null,
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 30,
+          "headDamage": 105,
+          "bodyDamage": 30,
+          "legDamage": 25.5
+        },
+        {
+          "rangeStartMeters": 30,
+          "rangeEndMeters": 50,
+          "headDamage": 87.5,
+          "bodyDamage": 25,
+          "legDamage": 21.25
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 500,
+      "category": "Pistols",
+      "shopOrderPriority": 0,
+      "categoryText": "Sidearms",
+      "gridPosition": {
+        "row": 0,
+        "column": 3
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/1baa85b4-4c70-1284-64bb-6481dfc3bb4e/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Luger/LugerPistolPurchase"
+    }
+  },
+  {
+    "displayName": "Sheriff",
+    "category": "EEquippableCategory::Sidearm",
+    "displayIcon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 4,
+      "magazineSize": 6,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.25,
+      "firstBulletAccuracy": 0.25,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::High",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": null,
+      "adsStats": null,
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 30,
+          "headDamage": 159.5,
+          "bodyDamage": 55,
+          "legDamage": 46.75
+        },
+        {
+          "rangeStartMeters": 30,
+          "rangeEndMeters": 50,
+          "headDamage": 145,
+          "bodyDamage": 50,
+          "legDamage": 42.5
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 800,
+      "category": "Pistols",
+      "shopOrderPriority": 0,
+      "categoryText": "Sidearms",
+      "gridPosition": {
+        "row": 0,
+        "column": 4
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/e336c6b8-418d-9340-d77f-7a9e4cfe0702/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Revolver/RevolverPistolPurchase"
+    }
+  },
+  {
+    "displayName": "Shorty",
+    "category": "EEquippableCategory::Sidearm",
+    "displayIcon": "https://media.valorant-api.com/weapons/42da8ccc-40d5-affc-beec-15aa47b42eda/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/42da8ccc-40d5-affc-beec-15aa47b42eda/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 3.33,
+      "magazineSize": 2,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 0.75,
+      "reloadTimeSeconds": 1.75,
+      "firstBulletAccuracy": 4,
+      "shotgunPelletCount": 15,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": null,
+      "adsStats": null,
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 7,
+          "headDamage": 22,
+          "bodyDamage": 11,
+          "legDamage": 9.35
+        },
+        {
+          "rangeStartMeters": 7,
+          "rangeEndMeters": 15,
+          "headDamage": 12,
+          "bodyDamage": 6,
+          "legDamage": 5.1
+        },
+        {
+          "rangeStartMeters": 15,
+          "rangeEndMeters": 50,
+          "headDamage": 6,
+          "bodyDamage": 3,
+          "legDamage": 2.5500002
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 300,
+      "category": "Pistols",
+      "shopOrderPriority": 0,
+      "categoryText": "Sidearms",
+      "gridPosition": null,
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/42da8ccc-40d5-affc-beec-15aa47b42eda/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/Sidearms/Slim/SawedOffShotgunPurchase"
+    }
+  },
+  {
+    "displayName": "Operator",
+    "category": "EEquippableCategory::Sniper",
+    "displayIcon": "https://media.valorant-api.com/weapons/a03b24d3-4319-996d-0f8c-94bbfba1dfc7/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/a03b24d3-4319-996d-0f8c-94bbfba1dfc7/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 0.6,
+      "magazineSize": 5,
+      "runSpeedMultiplier": 0.76,
+      "equipTimeSeconds": 1.5,
+      "reloadTimeSeconds": 3.7,
+      "firstBulletAccuracy": 5,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::High",
+      "feature": "EWeaponStatsFeature::DualZoom",
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 2.5,
+        "fireRate": 0.6,
+        "runSpeedMultiplier": 0.72,
+        "burstCount": 1,
+        "firstBulletAccuracy": -1
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 50,
+          "headDamage": 255,
+          "bodyDamage": 150,
+          "legDamage": 120
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 4700,
+      "category": "Sniper Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Sniper Rifles",
+      "gridPosition": {
+        "row": 3,
+        "column": 4
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/a03b24d3-4319-996d-0f8c-94bbfba1dfc7/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Boltsniper/BoltSniperRiflePurchase"
+    }
+  },
+  {
+    "displayName": "Guardian",
+    "category": "EEquippableCategory::Rifle",
+    "displayIcon": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 5.25,
+      "magazineSize": 12,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1,
+      "reloadTimeSeconds": 2.5,
+      "firstBulletAccuracy": 0.1,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::High",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.5,
+        "fireRate": 5.25,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 1,
+        "firstBulletAccuracy": -1
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 50,
+          "headDamage": 195,
+          "bodyDamage": 65,
+          "legDamage": 48.75
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 2250,
+      "category": "Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Assault Rifles",
+      "gridPosition": {
+        "row": 2,
+        "column": 4
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/4ade7faa-4cf1-8376-95ef-39884480959b/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/DMR/DMRWeaponPurchase"
+    }
+  },
+  {
+    "displayName": "Outlaw",
+    "category": "EEquippableCategory::Sniper",
+    "displayIcon": "https://media.valorant-api.com/weapons/5f0aaf7a-4289-3998-d5ff-eb9a5cf7ef5c/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/5f0aaf7a-4289-3998-d5ff-eb9a5cf7ef5c/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 2.75,
+      "magazineSize": 2,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1.25,
+      "reloadTimeSeconds": 3.8,
+      "firstBulletAccuracy": 3.5,
+      "shotgunPelletCount": -1,
+      "wallPenetration": "EWallPenetrationDisplayType::High",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 3.5,
+        "fireRate": 2.75,
+        "runSpeedMultiplier": 0.8,
+        "burstCount": -1,
+        "firstBulletAccuracy": -1
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 50,
+          "headDamage": 238,
+          "bodyDamage": 140,
+          "legDamage": 119
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 2400,
+      "category": "Sniper Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Sniper Rifles",
+      "gridPosition": {
+        "row": 0,
+        "column": 4
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/5f0aaf7a-4289-3998-d5ff-eb9a5cf7ef5c/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Doublesniper/DS_Gun_Purchasable"
+    }
+  },
+  {
+    "displayName": "Marshal",
+    "category": "EEquippableCategory::Sniper",
+    "displayIcon": "https://media.valorant-api.com/weapons/c4883e50-4494-202c-3ec3-6b8a9284f00b/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/c4883e50-4494-202c-3ec3-6b8a9284f00b/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 1.5,
+      "magazineSize": 5,
+      "runSpeedMultiplier": 0.8,
+      "equipTimeSeconds": 1.25,
+      "reloadTimeSeconds": 2.5,
+      "firstBulletAccuracy": 1,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Medium",
+      "feature": null,
+      "fireMode": "EWeaponFireModeDisplayType::SemiAutomatic",
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 3.5,
+        "fireRate": 1.2,
+        "runSpeedMultiplier": 0.9,
+        "burstCount": 1,
+        "firstBulletAccuracy": -1
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 50,
+          "headDamage": 202,
+          "bodyDamage": 101,
+          "legDamage": 85.850006
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 950,
+      "category": "Sniper Rifles",
+      "shopOrderPriority": 0,
+      "categoryText": "Sniper Rifles",
+      "gridPosition": {
+        "row": 0,
+        "column": 4
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/c4883e50-4494-202c-3ec3-6b8a9284f00b/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/SniperRifles/Leversniper/LeverSniperRiflePurchase"
+    }
+  },
+  {
+    "displayName": "Spectre",
+    "category": "EEquippableCategory::SMG",
+    "displayIcon": "https://media.valorant-api.com/weapons/462080d1-4035-2937-7c09-27aa2a5c27a7/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/462080d1-4035-2937-7c09-27aa2a5c27a7/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 13.333,
+      "magazineSize": 30,
+      "runSpeedMultiplier": 0.85,
+      "equipTimeSeconds": 0.75,
+      "reloadTimeSeconds": 2.25,
+      "firstBulletAccuracy": 0.4,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": "EWeaponStatsFeature::Silenced",
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.15,
+        "fireRate": 11.9997,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 1,
+        "firstBulletAccuracy": 0.25
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 15,
+          "headDamage": 78,
+          "bodyDamage": 26,
+          "legDamage": 22.1
+        },
+        {
+          "rangeStartMeters": 15,
+          "rangeEndMeters": 30,
+          "headDamage": 66,
+          "bodyDamage": 22,
+          "legDamage": 18.7
+        },
+        {
+          "rangeStartMeters": 30,
+          "rangeEndMeters": 50,
+          "headDamage": 60,
+          "bodyDamage": 20,
+          "legDamage": 17
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 1600,
+      "category": "SMGs",
+      "shopOrderPriority": 0,
+      "categoryText": "SMGs",
+      "gridPosition": {
+        "row": 1,
+        "column": 2
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/462080d1-4035-2937-7c09-27aa2a5c27a7/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/MP5/MP5WeaponPurchase"
+    }
+  },
+  {
+    "displayName": "Stinger",
+    "category": "EEquippableCategory::SMG",
+    "displayIcon": "https://media.valorant-api.com/weapons/f7e1b454-4ad4-1063-ec0a-159e56b58941/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/f7e1b454-4ad4-1063-ec0a-159e56b58941/killstreamicon.png",
+    "weaponStats": {
+      "fireRate": 16,
+      "magazineSize": 20,
+      "runSpeedMultiplier": 0.85,
+      "equipTimeSeconds": 0.75,
+      "reloadTimeSeconds": 2.25,
+      "firstBulletAccuracy": 0.65,
+      "shotgunPelletCount": 1,
+      "wallPenetration": "EWallPenetrationDisplayType::Low",
+      "feature": null,
+      "fireMode": null,
+      "altFireType": "EWeaponAltFireDisplayType::ADS",
+      "adsStats": {
+        "zoomMultiplier": 1.15,
+        "fireRate": 8.470589,
+        "runSpeedMultiplier": 0.76,
+        "burstCount": 4,
+        "firstBulletAccuracy": 0.35
+      },
+      "altShotgunStats": null,
+      "airBurstStats": null,
+      "damageRanges": [
+        {
+          "rangeStartMeters": 0,
+          "rangeEndMeters": 15,
+          "headDamage": 67.5,
+          "bodyDamage": 27,
+          "legDamage": 22.95
+        },
+        {
+          "rangeStartMeters": 15,
+          "rangeEndMeters": 50,
+          "headDamage": 57,
+          "bodyDamage": 23,
+          "legDamage": 19
+        }
+      ]
+    },
+    "shopData": {
+      "cost": 1100,
+      "category": "SMGs",
+      "shopOrderPriority": 0,
+      "categoryText": "SMGs",
+      "gridPosition": {
+        "row": 0,
+        "column": 1
+      },
+      "canBeTrashed": true,
+      "image": null,
+      "newImage": "https://media.valorant-api.com/weapons/f7e1b454-4ad4-1063-ec0a-159e56b58941/shop/newimage.png",
+      "newImage2": null,
+      "assetPath": "ShooterGame/Content/Equippables/Guns/SubMachineGuns/Vector/VectorPurchase"
+    }
+  },
+  {
+    "displayName": "Melee",
+    "category": "EEquippableCategory::Melee",
+    "displayIcon": "https://media.valorant-api.com/weapons/2f59173c-4bed-b6c3-2191-dea9b58be9c7/displayicon.png",
+    "killStreamIcon": "https://media.valorant-api.com/weapons/2f59173c-4bed-b6c3-2191-dea9b58be9c7/killstreamicon.png",
+    "weaponStats": null,
+    "shopData": null
+  }
+]
